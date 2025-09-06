@@ -1,8 +1,4 @@
-# rtsp_replay_attack_auto.py
-# Detects the crime window in a source video, builds a crime-removed replay file,
-# starts the original RTSP stream + viewer, waits until the detected start time,
-# then kills the original stream and starts streaming the replay file to the same RTSP URL.
-# Finally, it restarts the viewer so you immediately see the replayed footage.
+
 
 import cv2
 import numpy as np
