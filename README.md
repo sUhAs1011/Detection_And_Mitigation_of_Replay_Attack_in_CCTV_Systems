@@ -8,12 +8,6 @@ Secure Communication Protocols: Encrypting data and verifying stream authenticit
 ### High Level Design
 ![WhatsApp Image 2025-09-23 at 15 38 27_0dca5f1a](https://github.com/user-attachments/assets/97e1263d-23a1-4772-9fb9-8c9ae4a5030f)
 
-
-### Project Workflow
-![image](https://github.com/user-attachments/assets/a3faf2f2-49f0-4e64-b0f6-70d5ea7a5808)
-
-
-
 ### Team Members
 - Mohit Prasad Singh (PES2UG22CS320)
 - Shreyas Suresh (PES2UG22CS540)
