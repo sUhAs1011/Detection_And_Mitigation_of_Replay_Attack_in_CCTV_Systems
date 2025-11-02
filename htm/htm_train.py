@@ -85,11 +85,11 @@ def main():
         potentialPct=0.8,
         globalInhibition=True,
         synPermInactiveDec=0.005,
-        synPermActiveInc=0.04,
+        synPermActiveInc=0.025,
         synPermConnected=0.1,
         minPctOverlapDutyCycle=0.001,
         dutyCyclePeriod=1000,
-        boostStrength=3.0
+        boostStrength=1.5
     )
 
     tm = TemporalMemory(
@@ -199,3 +199,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
